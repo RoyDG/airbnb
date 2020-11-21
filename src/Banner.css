@@ -1,0 +1,29 @@
+.banner {
+  background: url("https://www.incimages.com/uploaded_files/image/1920x1080/airbnb-apartment-1940x900_35401.jpg")
+    center center;
+  height: 70vh;
+  position: relative;
+}
+.banner__info {
+  background-color: black;
+  color: white;
+  padding: 25vh 50px 40px 50px;
+  width: 300px;
+}
+
+.banner__info > button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 6000;
+}
+
+.banner__info > h5 {
+  margin-top: 10px;
+}
+
+.banner__info > button:hover {
+  background-color: white;
+  color: #ff7779;
+}

@@ -12,6 +12,7 @@ body {
 }
 
 code {
+  overflow-y: hidden;
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }

@@ -1,9 +1,22 @@
 .banner {
-  background: url("https://www.incimages.com/uploaded_files/image/1920x1080/airbnb-apartment-1940x900_35401.jpg")
+  background: url("https://a0.muscache.com/pictures/5fcbb0af-ace5-47bb-b251-eba6ada69681.jpg")
     center center;
   height: 70vh;
   position: relative;
 }
+
+.banner__search {
+  display: flex;
+  flex-direction: column;
+}
+
+.banner__searchButton {
+  background-color: white !important;
+  color: #ff7779 !important;
+  text-transform: inherit !important;
+  font-weight: 9000 !important;
+}
+
 .banner__info {
   background-color: black;
   color: white;
